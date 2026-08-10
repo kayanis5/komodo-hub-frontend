@@ -33,8 +33,6 @@ Run `npm run build`. The static output is created in `dist/`.
 
 ## Project details
 
-- Student: Sahir Kayani
-- Student ID: 13727697
 - Support: knjjjshhj@gmail.com
 
 ## Image credits
