@@ -1,6 +1,6 @@
 # Komodo Hub Frontend
 
-An original responsive React and TypeScript interface created by Sahir Kayani for the 5005CMD Komodo Hub case study. The public site presents conservation programmes, endangered species and reviewed library items. Fictional student, teacher and administrator accounts demonstrate role-based access without exposing real personal data.
+An original responsive React and TypeScript interface created for the 5005CMD Komodo Hub case study. The public site presents conservation programmes, endangered species and reviewed library items. Student, teacher and administrator accounts demonstrate role-based access without exposing real personal data.
 
 The demonstration contains 19 working role views. Students can update activity progress, submit privacy-aware sightings, build a creative canvas, submit work, send messages and personalise a private profile. Teachers can manage classes, assess submissions, moderate sightings, generate progress summaries and communicate internally. Administrators can manage organisations and staff access, generate joining codes, control publication, inspect anonymised business indicators and use the role-limited inbox.
 
